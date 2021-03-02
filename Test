@@ -5,3 +5,19 @@ git add .                  // 将所有新文件添加到git
 git commit -am 'message'   // 提交所有更改，带描述
 git push                   //提交到远程库
 git diff      
+
+git clone rep_address       // 克隆一个远程库
+git status                  //查看当前状态
+git add file_name           //将某个文件添加到git
+git add .                  // 将所有新文件添加到git
+git commit -am 'message'   // 提交所有更改，带描述
+git push                   //提交到远程库
+git diff      
+
+git clone rep_address       // 克隆一个远程库
+git status                  //查看当前状态
+git add file_name           //将某个文件添加到git
+git add .                  // 将所有新文件添加到git
+git commit -am 'message'   // 提交所有更改，带描述
+git push                   //提交到远程库
+git diff      
